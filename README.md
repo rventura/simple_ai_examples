@@ -10,7 +10,7 @@ The folder `search` contains the following Jupyter notebooks:
 - `PathPlanning.ipynb` -- solving a path planning problem on a labirynth using uninformed and informed search methods
 - `Sudoku.ipynb` -- solving sudoku puzzles using depth-first search
 
-To run each one of these one should start a Jupyter lab by running the `run.sh` script. And then load and run the above notebooks.
+To run each one of these one should start Jupyter (see below), and then load and run the above notebooks.
 
 These examples use code from the Russell & Norvig's "Artificial Intelligence: A Modern Approach" seminal textbook, freely available in the following [official repository](https://github.com/aimacode/aima-python).
 
@@ -23,6 +23,8 @@ These examples require [Docker](https://www.docker.com/) to be installed. The fi
 ## Installation
 
 To run the Jupyter notebooks you need to install a few Python dependencies. We recommend running the `setup.sh` script to create a Python virtual environment and all required dependencies.
+
+To launch Jupyter, run the script `run.sh`.
 
 ## Author
 
