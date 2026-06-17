@@ -3,5 +3,7 @@ numpy
 matplotlib
 pillow
 scikit-image
+scikit-learn
 ipythonblocks
 ipywidgets
+ipympl
