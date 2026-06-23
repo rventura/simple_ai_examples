@@ -7,3 +7,4 @@ scikit-learn
 ipythonblocks
 ipywidgets
 ipympl
+pandas
