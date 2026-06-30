@@ -1,5 +1,6 @@
 jupyterlab
 numpy
+scipy
 matplotlib
 pillow
 scikit-image
@@ -8,3 +9,6 @@ ipythonblocks
 ipywidgets
 ipympl
 pandas
+torch
+torchvision
+torchaudio
